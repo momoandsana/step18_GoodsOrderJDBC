@@ -1,0 +1,36 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse specific files
+.settings/
+.project
+.classpath
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Node.js modules directory
+node_modules/
+
+# Other specific files or directories
+*.log
+*.tmp
